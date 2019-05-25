@@ -1,7 +1,9 @@
-TotalAmount:  00.00
+TotalAmount:   00.00
 
-PNCSpend:     00.00
-PNCReserve:   00.00
-PNCSavings:   00.00
-SCCUChecking: 00.00
-SCCUSavings:  00.00
+PNCSpend:      00.00
+PNCReserve:    00.00
+PNCSavings:    00.00
+SCCUChecking:  00.00
+SCCUSavings:   00.00
+DiscoverAvail: 00.00
+ChaseAvail:    00.00
