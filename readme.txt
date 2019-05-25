@@ -1,1 +1,0 @@
-Python scripts to aid in a personal budget tracking system
